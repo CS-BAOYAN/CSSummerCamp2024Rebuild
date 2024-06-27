@@ -438,6 +438,8 @@
 
 【截止日期：2024-07-01-00:00:00】[生物医学工程学院](https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ)
 
+【截止日期：2024-06-29-00:00:00】[智能科技学院](http://github.com/)
+
 
 ## 北京交通大学
 
@@ -518,6 +520,10 @@
 
 【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
+【截止日期：2024-07-04-00:00:00】[电子与信息工程学院](https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA)
+
+【截止日期：2024-07-08-12:00:00】[医学部生物医学工程学院](https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg)
+
 
 ## 首都师范大学
 
@@ -585,6 +591,8 @@
 ## 国防科技大学
 
 【截止日期：2024-06-28-00:00:00】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803)
+
+【截止日期：2024-07-03-18:00:00】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819)
 
 
 ## 哈尔滨工程大学
@@ -904,6 +912,8 @@
 
 【截止日期：2024-07-01-00:00:00】[计算机学院](https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm)
 
+【截止日期：2024-07-01-12:00:00】[人工智能与自动化学院](https://ai.hhu.edu.cn/2024/0625/c15659a285496/page.htm)
+
 
 ## 长江大学
 
@@ -915,4 +925,36 @@
 【截止日期：2024-06-28-00:00:00】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)
 
 【截止日期：2024-06-28-00:00:00】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
+
+
+## 首都体育大学
+
+【截止日期：2024-06-29-00:00:00】[体育人工智能研究院](https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg)
+
+
+## 北京外国语大学
+
+【截止日期：2024-07-01-00:00:00】[人工智能与人类语言重点实验室](https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA)
+
+
+## 中国航天科工集团第二研究院
+
+【截止日期：2024-07-14-17:00:00】[航天二院](https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ)
+
+
+## 军事科学院
+
+【截止日期：2024-07-06-00:00:00】[第五届“强军之星”优秀大学生夏令营](https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA)
+
+
+## 浙江工业大学
+
+【截止日期：2024-07-06-00:00:00】[信息工程学院](https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg)
+
+
+## 云南大学
+
+【截止日期：2024-07-05-12:00:00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)
+
+【截止日期：2024-07-06-00:00:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)
 
