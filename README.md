@@ -167,6 +167,8 @@
 
 【截止日期：N/A】[东南大学PALM实验室](https://palm.seu.edu.cn/application.html)
 
+【截止日期：2024-08-11-12:00:00】[电子科学与工程学院](https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm)
+
 
 ## 华中科技大学
 
@@ -511,6 +513,10 @@
 ## 深圳大学
 
 【截止日期：2024-07-01-00:00:00】[计算机与软件学院](https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g)
+
+【截止日期：2024-07-16-00:00:00】[光明实验室](https://mp.weixin.qq.com/s/P_-L3Zfi5s2UMsORAUMyvw)
+
+【截止日期：2024-07-15-00:00:00】[大数据系统计算技术国家工程实验室](https://mp.weixin.qq.com/s/vl_Tt27hHRXbIYgzksFchg)
 
 
 ## 首都师范大学
@@ -897,4 +903,16 @@
 ## 河海大学
 
 【截止日期：2024-07-01-00:00:00】[计算机学院](https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm)
+
+
+## 长江大学
+
+~~【截止日期：2024-06-26-00:00:00】[计算机科学学院](https://jky.yangtzeu.edu.cn/info/1266/5333.htm)~~
+
+
+## 中国传媒大学
+
+【截止日期：2024-06-28-00:00:00】[数据科学与智能媒体学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/a213485c-f2b1-486f-bdd1-c9681d137e7c.pdf)
+
+【截止日期：2024-06-28-00:00:00】[计算机与网络通信学院](https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf)
 
