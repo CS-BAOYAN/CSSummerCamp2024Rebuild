@@ -174,6 +174,8 @@
 
 ~~【截止日期：2024-06-28-12:00:00】[人工智能与自动化学院](https://aia.hust.edu.cn/info/1177/9301.htm)~~
 
+【截止日期：2024-07-02-00:00:00】[网络空间安全学院](https://cse.hust.edu.cn/info/1079/4054.htm)
+
 
 ## 武汉大学
 
@@ -673,7 +675,7 @@
 
 ## 哈尔滨工业大学
 
-~~【截止日期：2024-06-21-00:00:00】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/tMZhgGdGZkoTz7q1mLDfFw)~~
+【截止日期：2024-07-05-00:00:00】[哈工大SCIR（哈工大赛尔实验室）](https://mp.weixin.qq.com/s/oEl6wG301SxbYmRmQYhBDw)
 
 ~~【截止日期：2024-06-08-00:00:00】[计算机科学与技术学院（深圳）](http://cs.hitsz.edu.cn/info/1029/7282.htm)~~
 
@@ -957,4 +959,9 @@
 【截止日期：2024-07-05-12:00:00】[软件学院](http://www.sei.ynu.edu.cn/info/1057/2332.htm)
 
 【截止日期：2024-07-06-00:00:00】[信息学院](http://www.ise.ynu.edu.cn/annunciations/281)
+
+
+## 华北电力大学
+
+【截止日期：2024-07-05-00:00:00】[控制与计算机工程学院](https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm)
 
