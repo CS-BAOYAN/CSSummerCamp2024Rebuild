@@ -647,6 +647,8 @@
 
 ~~【截止日期：2024-07-03-00:00:00】[网络空间安全学院](https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg)~~
 
+【截止日期：2024-07-21-00:00:00】[智能计算成像实验室（SCILab）](https://scilaboratory.com/h-nd-655.html)
+
 
 ## 西南财经大学
 
@@ -984,4 +986,34 @@
 ## 南京邮电大学
 
 【截止日期：2024-08-09-00:00:00】[自动化学院/人工智能学院](https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm)
+
+
+## 南京航空航天大学
+
+【截止日期：2024-09-19-00:00:00】[国际前沿科学研究院](https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm)
+
+
+## 武汉工程大学
+
+~~【截止日期：2024-07-04-00:00:00】[电子信息类](https://cs.wit.edu.cn/info/1054/12078.htm)~~
+
+
+## 重庆邮电大学
+
+【截止日期：2024-07-09-00:00:00】[通信与信息工程学院](https://mp.weixin.qq.com/s?__biz=MzU0NDAxNDkyNA==&mid=2247502507&idx=1&sn=a919d9b0079e511ec17e2d8738b3bb47)
+
+
+## 鹏城实验室
+
+【截止日期：2024-07-15-00:00:00】[鹏城博士夏令营](https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03)
+
+
+## 北京科技大学
+
+【截止日期：2024-07-13-00:00:00】[计算机与通信工程学院](https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html)
+
+
+## 中国地质大学（北京）
+
+【截止日期：N/A】[公书慧课题组](https://mp.weixin.qq.com/s/QdDXY71BdEvw6EgKNHBZqQ)
 
